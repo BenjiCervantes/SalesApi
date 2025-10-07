@@ -1,0 +1,16 @@
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Application\bin\Debug\net9.0\NextCloud.SalesApi.Application.deps.json
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Application\bin\Debug\net9.0\NextCloud.SalesApi.Application.dll
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Application\bin\Debug\net9.0\NextCloud.SalesApi.Application.pdb
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Application\bin\Debug\net9.0\NextCloud.SalesApi.Domain.dll
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Application\bin\Debug\net9.0\NextCloud.SalesApi.Domain.pdb
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Application\obj\Debug\net9.0\NextCloud.SalesApi.Application.csproj.AssemblyReference.cache
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Application\obj\Debug\net9.0\NextCloud.SalesApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Application\obj\Debug\net9.0\NextCloud.SalesApi.Application.AssemblyInfoInputs.cache
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Application\obj\Debug\net9.0\NextCloud.SalesApi.Application.AssemblyInfo.cs
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Application\obj\Debug\net9.0\NextCloud.SalesApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Application\obj\Debug\net9.0\NextCloud.SalesApi.Application.sourcelink.json
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Application\obj\Debug\net9.0\NextClou.0760ACCE.Up2Date
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Application\obj\Debug\net9.0\NextCloud.SalesApi.Application.dll
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Application\obj\Debug\net9.0\refint\NextCloud.SalesApi.Application.dll
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Application\obj\Debug\net9.0\NextCloud.SalesApi.Application.pdb
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Application\obj\Debug\net9.0\ref\NextCloud.SalesApi.Application.dll

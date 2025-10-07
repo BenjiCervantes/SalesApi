@@ -1,0 +1,13 @@
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Domain\bin\Debug\net9.0\NextCloud.SalesApi.Domain.deps.json
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Domain\bin\Debug\net9.0\NextCloud.SalesApi.Domain.dll
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Domain\bin\Debug\net9.0\NextCloud.SalesApi.Domain.pdb
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Domain\obj\Debug\net9.0\NextCloud.SalesApi.Domain.csproj.AssemblyReference.cache
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Domain\obj\Debug\net9.0\NextCloud.SalesApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Domain\obj\Debug\net9.0\NextCloud.SalesApi.Domain.AssemblyInfoInputs.cache
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Domain\obj\Debug\net9.0\NextCloud.SalesApi.Domain.AssemblyInfo.cs
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Domain\obj\Debug\net9.0\NextCloud.SalesApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Domain\obj\Debug\net9.0\NextCloud.SalesApi.Domain.sourcelink.json
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Domain\obj\Debug\net9.0\NextCloud.SalesApi.Domain.dll
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Domain\obj\Debug\net9.0\refint\NextCloud.SalesApi.Domain.dll
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Domain\obj\Debug\net9.0\NextCloud.SalesApi.Domain.pdb
+C:\Users\b-e-n\OneDrive\Escritorio\NET\NextCloud.SalesApi\src\NextCloud.SalesApi.Domain\obj\Debug\net9.0\ref\NextCloud.SalesApi.Domain.dll

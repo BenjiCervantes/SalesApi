@@ -1,0 +1,30 @@
+CREATE DATABASE Inventory;
+GO
+
+USE Inventory;
+GO
+
+CREATE TABLE Products (
+	ProductId INT NOT NULL PRIMARY KEY IDENTITY(1,1),
+	Name VARCHAR(50) NOT NULL,
+	Price DECIMAL NOT NULL,
+	Quantity INT NOT NULL
+)
+GO
+
+CREATE TABLE Sales (
+	SaleId INT NOT NULL PRIMARY KEY IDENTITY(1,1),
+	Total DECIMAL NOT NULL,
+	ProductQuantity INT NOT NULL,
+	SaleDate DATETIME NOT NULL
+)
+GO
+
+CREATE TABLE ProductSale (
+	ProductId INT NOT NULL,
+	SaleId INT NOT NULL,
+	ProductQuantity INT NOT NULL,
+	CONSTRAINT "PK_ProductSale" PRIMARY KEY (ProductId, SaleId),
+    CONSTRAINT "FK_ProductSale_Product_ProductId" FOREIGN KEY (ProductId) REFERENCES Products (ProductId) ON DELETE CASCADE,
+    CONSTRAINT "FK_ProductSale_Sales_SaleId" FOREIGN KEY (SaleId) REFERENCES Sales (SaleId) ON DELETE CASCADE)
+GO

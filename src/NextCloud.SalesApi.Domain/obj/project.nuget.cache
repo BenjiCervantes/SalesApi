@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K+biUbSjpK0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\b-e-n\\OneDrive\\Escritorio\\NET\\NextCloud.SalesApi\\src\\NextCloud.SalesApi.Domain\\NextCloud.SalesApi.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b-e-n\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

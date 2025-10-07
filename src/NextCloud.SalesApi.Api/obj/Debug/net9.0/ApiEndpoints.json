@@ -1,0 +1,102 @@
+[
+  {
+    "ContainingType": "NextCloud.SalesApi.Api.Controllers.ProductController",
+    "Method": "Create",
+    "RelativePath": "api/v1/Product/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "NextCloud.SalesApi.Application.DataBase.Product.Commands.CreateProduct.CreateProductModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NextCloud.SalesApi.Api.Controllers.ProductController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Product/delete/{productId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NextCloud.SalesApi.Api.Controllers.ProductController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/Product/get-all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NextCloud.SalesApi.Api.Controllers.ProductController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/Product/get-by-id/{productId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NextCloud.SalesApi.Api.Controllers.ProductController",
+    "Method": "Update",
+    "RelativePath": "api/v1/Product/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "NextCloud.SalesApi.Application.DataBase.Product.Commands.UpdateProduct.UpdateProductModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NextCloud.SalesApi.Api.Controllers.SaleController",
+    "Method": "Create",
+    "RelativePath": "api/v1/Sale/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "NextCloud.SalesApi.Application.DataBase.Sale.Commands.CreateSale.CreateSaleModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NextCloud.SalesApi.Api.Controllers.SaleController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/Sale/get-all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
